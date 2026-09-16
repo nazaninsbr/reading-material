@@ -1,5 +1,6 @@
 # Papers
 
+Brynjolfsson, Erik, Danielle Li, and Lindsey Raymond. "Generative AI at work." The Quarterly Journal of Economics 140, no. 2 (2025): 889-942.
 
 # Books 
 
